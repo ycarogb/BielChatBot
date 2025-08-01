@@ -1,0 +1,7 @@
+﻿services:
+  bielchatbot:
+    image: bielchatbot
+    build:
+      context: .
+      dockerfile: BielChatBot/Dockerfile
+

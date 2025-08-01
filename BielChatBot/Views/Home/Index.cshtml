@@ -1,0 +1,24 @@
+﻿@model BielChatBot.Models.Entities.Dtos.InputDto
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Biel Chatbot</h1>
+    
+    <h2> Aqui vai uma pequena introdução do que é o Biel chatbot e para que serve</h2>
+    
+    <form asp-action="GenerateOutput">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <input asp-for="Value" class="form-control" />
+            <span asp-validation-for="Value" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Enviar" class="btn btn-primary"/>
+        </div>
+    </form>
+    
+    
+</div>

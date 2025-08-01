@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ycaro.batalha\\Documents\\Estudos\\Inttroducao.NET+IA\\BielChatBot\\BielChatBotAI.csproj": {}
+    "C:\\Users\\Computadoe\\Documents\\Desenvolvimento\\BielChatBot\\BielChatBotAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ycaro.batalha\\Documents\\Estudos\\Inttroducao.NET+IA\\BielChatBot\\BielChatBotAI.csproj": {
+    "C:\\Users\\Computadoe\\Documents\\Desenvolvimento\\BielChatBot\\BielChatBotAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ycaro.batalha\\Documents\\Estudos\\Inttroducao.NET+IA\\BielChatBot\\BielChatBotAI.csproj",
+        "projectUniqueName": "C:\\Users\\Computadoe\\Documents\\Desenvolvimento\\BielChatBot\\BielChatBotAI.csproj",
         "projectName": "BielChatBotAI",
-        "projectPath": "C:\\Users\\ycaro.batalha\\Documents\\Estudos\\Inttroducao.NET+IA\\BielChatBot\\BielChatBotAI.csproj",
-        "packagesPath": "C:\\Users\\ycaro.batalha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ycaro.batalha\\Documents\\Estudos\\Inttroducao.NET+IA\\BielChatBot\\obj\\",
+        "projectPath": "C:\\Users\\Computadoe\\Documents\\Desenvolvimento\\BielChatBot\\BielChatBotAI.csproj",
+        "packagesPath": "C:\\Users\\Computadoe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Computadoe\\Documents\\Desenvolvimento\\BielChatBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ycaro.batalha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Computadoe\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
