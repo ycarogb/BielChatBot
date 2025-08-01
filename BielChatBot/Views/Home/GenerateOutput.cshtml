@@ -1,0 +1,15 @@
+@model BielChatBot.Models.Entities.Dtos.OutputDto
+
+@{
+    ViewBag.Title = "output";
+    Layout = "_Layout";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Biel Chatbot</h1>
+    <h2>Resposta do ChatBot:</h2>
+    <div class="alert alert-info mt-4">
+        <p>@Model.Value</p>
+    </div>
+    <a href="@Url.Action("Index")" class="btn btn-secondary mt-3">Fazer nova pergunta</a>
+</div>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BielChatBotAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b09546d55dc86c8a33dd38f5178725b55ace58d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5728140037cf5ae4c44ca9c37d838819f0754199")]
 [assembly: System.Reflection.AssemblyProductAttribute("BielChatBotAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BielChatBotAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
