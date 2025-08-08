@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BielChatBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5728140037cf5ae4c44ca9c37d838819f0754199")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+052c3c40e710dbca1df4b7efefeb326f0199ed4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BielChatBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BielChatBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
